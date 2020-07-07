@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Statistic</class>
+ <widget class="QWidget" name="Statistic">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>成绩变动曲线</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="Resources/Resources.qrc">
+    <normaloff>:/IconStatistic.png</normaloff>:/IconStatistic.png</iconset>
+  </property>
+ </widget>
+ <resources>
+  <include location="Resources/Resources.qrc"/>
+ </resources>
+ <connections/>
+</ui>

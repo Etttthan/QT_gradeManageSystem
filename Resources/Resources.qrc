@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>account.png</file>
+        <file>IcoLogin.png</file>
+        <file>IconModify.png</file>
+        <file>IconQuery.png</file>
+        <file>IconStatistic.png</file>
+        <file>nsIconAdd (1).png</file>
+        <file>nsIconDel.png</file>
+        <file>nsIconHadin.png</file>
+        <file>nsIconRevoke.png</file>
+        <file>accountStudent.png</file>
+        <file>accountTeacher.png</file>
+        <file>accountUnknown.png</file>
+        <file>mainIcon2.png</file>
+        <file>errorIcon.png</file>
+    </qresource>
+</RCC>
